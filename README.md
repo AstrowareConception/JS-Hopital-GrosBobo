@@ -11,7 +11,8 @@ Vous devez réaliser une page web, contenant différentes parties du corps et la
 
 # Contraintes :
 Ce projet est à réaliser seul.
-Vous devez suivre la maquette que le designer a réalisé.
+Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.png).
+L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png)
 
 # En plus de :
 ● Utilisation des attributs HTML "class" et "id"
