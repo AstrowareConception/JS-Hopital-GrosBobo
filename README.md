@@ -2,7 +2,7 @@
 Animer une page en javascript
 
 # Contexte :
-L'hôpital "Grosbobo" de Coursegoules souhaite monter un site pour ses infirmiers et internes. 
+L'hôpital "Grosbobo" de Coursegoules souhaite développer un outil d'apprentissage pour ses infirmiers et internes. 
 En effet, leurs erreurs régulières nuisent fortement à la réputation de l'établissement. 
 Ce site aura pour vocation de former le personnel pour ne plus qu'il se trompe lors d’interventions pour soigner les patients.
 
@@ -12,7 +12,7 @@ Vous devez réaliser une page web, contenant différentes parties du corps et la
 # Contraintes :
 Ce projet est à réaliser seul.
 Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.png).
-L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png)
+L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png). Lorsque vous cliquerez sur l'un des disques (à disposer sur le corps), le texte descriptif s'affichera dans la colonne de droite. 
 
 # Consignes :
 ● Utilisation des attributs HTML "class" et "id"
