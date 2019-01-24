@@ -1,4 +1,4 @@
-# JS-Hopital-GrosBobo
+# Hopital GrosBobo
 Animer une page en javascript
 
 # Contexte :
