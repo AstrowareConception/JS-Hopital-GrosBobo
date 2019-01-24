@@ -15,6 +15,9 @@ Vous devez suivre la maquette que le designer a réalisé.
 
 # En plus de :
 ● Utilisation des attributs HTML "class" et "id"
+
 ● Utilisation de la police _Arvo_ (voir sur _GoogleFont_)
+
 ● Utilisation des balises et attributs HTML sémantiques
+
 ● Séparation du HTML, du CSS et du JavaScript
