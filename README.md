@@ -23,4 +23,4 @@ L'image du corps est directement mise à disposition par le service des archives
 
 ● Séparation du HTML, du CSS et du JavaScript
 
-● Vous pouvez bien évidemment choisir la couleur de fond.
+● Vous pouvez bien évidemment choisir la couleur de fond ainsi que les styles pour améliorer la mise en page.
