@@ -10,7 +10,6 @@ Ce site aura pour vocation de former le personnel pour ne plus qu'il se trompe l
 Vous devez réaliser une page web, contenant différentes parties du corps et la description de celle-ci.
 
 # Contraintes :
-Ce projet est à réaliser seul.
 Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.png).
 L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png). Lorsque vous cliquerez sur l'un des disques (à disposer sur le corps), le texte descriptif s'affichera dans la colonne de droite. 
 
