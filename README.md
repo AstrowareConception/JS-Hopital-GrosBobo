@@ -7,7 +7,7 @@ En effet, leurs erreurs régulières nuisent fortement à la réputation de l'é
 Ce site aura pour vocation de former le personnel pour ne plus qu'il se trompe lors d’interventions pour soigner les patients.
 
 # Projet :
-Vous devez réaliser une page web, contenant différentes parties du corps et la description de celle-ci.
+Vous devez réaliser une page web, contenant différentes parties du corps et la description de celles-ci.
 Vous pouvez travailler en binôme.
 
 # Contraintes :
