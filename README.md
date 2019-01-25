@@ -8,6 +8,7 @@ Ce site aura pour vocation de former le personnel pour ne plus qu'il se trompe l
 
 # Projet :
 Vous devez réaliser une page web, contenant différentes parties du corps et la description de celle-ci.
+Vous pouvez travailler en binôme.
 
 # Contraintes :
 Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.png).
