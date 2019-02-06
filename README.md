@@ -15,7 +15,7 @@ Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.pn
 L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png). Lorsque vous cliquerez sur l'un des disques (à disposer sur le corps), le texte descriptif s'affichera dans la colonne de droite. 
 
 # Consignes :
-● Utilisation des attributs HTML "class" et "id"
+● Utilisation des attributs HTML "class" et "id" dans le code HTML
 
 ● Utilisation de la police _Arvo_ (voir sur _GoogleFont_)
 
