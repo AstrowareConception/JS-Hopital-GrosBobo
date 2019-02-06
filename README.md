@@ -12,7 +12,7 @@ Vous pouvez travailler en binôme.
 
 # Contraintes :
 Vous devez suivre la maquette fournie dans le fichier [resultat.png](resultat.png).
-L'image du corps est directement mise à disposition par le service des archives de l'Hôiptal GrosBobo et est à récupérer ici : [corps.png](corps.png). Lorsque vous cliquerez sur l'un des disques (à disposer sur le corps), le texte descriptif s'affichera dans la colonne de droite. 
+L'image du corps est directement mise à disposition par le service des archives de l'Hôpital GrosBobo et est à récupérer ici : [corps.png](corps.png). Lorsque vous cliquerez sur l'un des disques (à disposer sur le corps), le texte descriptif s'affichera dans la colonne de droite. 
 
 # Consignes :
 ● Utilisation des attributs HTML "class" et "id" dans le code HTML
