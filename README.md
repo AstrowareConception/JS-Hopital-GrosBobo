@@ -25,4 +25,6 @@ L'image du corps est directement mise à disposition par le service des archives
 
 ● Utilisation des media-queries pour obtenir un résultat responsive
 
+● Possibilité d'utiliser jQuery
+
 ● Vous pouvez bien évidemment choisir la couleur de fond ainsi que les styles pour améliorer la mise en page.
